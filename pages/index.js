@@ -6,14 +6,13 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Atelje Cavic</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Dobrodosli" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Dobrodosli na sajt <code>Ateljea Cavic</code>
         </p>
       </main>
 
